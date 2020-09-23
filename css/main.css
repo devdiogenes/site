@@ -51,7 +51,7 @@
     border-radius: 15px;
     background-color: #fffffff6;
     box-shadow: 0.1rem 0.1rem 1px rgb(0,0,0,.3);
-    transition: transform 1s;
+    transition: transform .3s;
 }
 
 
