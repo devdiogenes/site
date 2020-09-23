@@ -15,3 +15,5 @@ O que se pode commitar em um repositório?
 :beatle: correção de bug
 :checkred_flag: release (entrega de uma parte funcional)
 
+
+
