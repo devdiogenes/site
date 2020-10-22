@@ -18,5 +18,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 # Referências
 
-https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV&index=1
+https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV
 
