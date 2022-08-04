@@ -1,20 +1,20 @@
 # Site
 
-Estudando como fazer um site
+Estudando como fazer um site.
 
-# Terefas
+# Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+O controle das tarefas desse projeto será realizado no GitHub.
 
 # Icones
 
-• :package: nova funcionalidade
+• :package: Nova funcionalidade;
 
-• :up: atualização (texto, formatação)
+• :up: Atualização (texto, formatação);
 
-• :beetle: correção de bug
+• :beetle: Correção de bug;
 
-• :checkered_flag: release (entrega de uma parte funcional)
+• :checkered_flag: Release (entrega de uma parte funcional)
 
 # Referências
 
